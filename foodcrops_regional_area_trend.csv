@@ -1,0 +1,86 @@
+# Estimated Area Under Food Crops by Development Region, 2010/11 to 2013/14
+Crop,Region,year_2010-11,year_2011-12,year_2012-13,year_2013-14
+Paddy,Eastern Mountain,26657,27909,22181,22345
+Paddy,Eastern Hills,94991,100606,94170,97299
+Paddy,Eastern Terai,297652,342150,283484,297363
+Paddy,Eastern Dev. Region,419300,470665,399835,417007
+Paddy,Central Mountan,17379,16739,16674,16715
+Paddy,Central Hills,90445,87110,85983,89245
+Paddy,Central Terai,310679,306493,268860,280744
+Paddy,Cent. Dev. Region,418503,334342,371517,386704
+Paddy,Western Mountain,,,,
+Paddy,Western Hills,145262,125850,129514,133716
+Paddy,Western Terai,190190,186890,186690,190850
+Paddy,West. Dev. Reg.,335452,312740,316204,324566
+Paddy,Mid-West. Mountain,8372,8607,8257,7764
+Paddy,Mid-West. Hills,47798,48385,47881,48680
+Paddy,Mid-West. Terai,117550,120262,116175,126730
+Paddy,Mid.West.Dev.Reg.,173720,171647,172313,183174
+Paddy,Far-West. Mountain,14305,14796,14796,14796
+Paddy,Far-West. Hills,28541,33541,37005,40458
+Paddy,Far-West. Terai,106655,112155,108900,120246
+Paddy,Far.West.Dev.Reg,149501,160492,160701,175500
+Paddy,Nepal,1496476,1531493,1420570,1486951
+Wheat,Eastern Mountain,7045,6410,7100,2959
+Wheat,Eastern Hills,28735,28410,28349,27118
+Wheat,Eastern Terai,89700,75600,69175,70395
+Wheat,Eastern Dev. Region,125480,110420,104624,100472
+Wheat,CentralMountan,12250,12108,12350,12400
+Wheat,Central Hills,47055,36387,46569,46059
+Wheat,Central Terai,164618,170135,170415,165500
+Wheat,Cent. Dev. Region,223923,170135,229334,223959
+Wheat,Western Mountain,894,893,858,880
+Wheat,Western Hills,57935,54231,53434,53208
+Wheat,Western Terai,79325,79325,75780,79410
+Wheat,West. Dev. Reg.,138154,134449,130072,133498
+Wheat,Mid-West. Mountain,15614,8607,15865,15826
+Wheat,Mid-West. Hills,79921,87155,85118,92213
+Wheat,Mid-West. Terai,49553,54120,53986,50177
+Wheat,Mid.West.Dev.Reg.,145088,157323,154969,158216
+Wheat,Far-West. Mountain,16315,16450,21897,20412
+Wheat,Far-West. Hills,51789,51290,52192,51995
+Wheat,Far-West. Terai,66750,66705,66755,65933
+Wheat,Far.West.Dev.Reg,134854,134445,140844,138340
+Wheat,Nepal,767499,765317,759843,754485
+Maize,Eastern Mountain,43195,42085,35179,41500
+Maize,Eastern Hills,149487,153900,148836,169603
+Maize,Eastern Terai,55000,54645,47710,65150
+Maize,East.Dev.Reg,247682,250630,231725,276253
+Maize,CentralMountan,31645,35753,32233,32787
+Maize,Central Hills,131987,138259,141528,152589
+Maize,Central Terai,49600,37756,20819,37162
+Maize,Cent.Dev.Reg.,213232,97145,194580,222538
+Maize,Western Mountain,710,700,714,706
+Maize,Western Hills,221949,201794,216884,228711
+Maize,Western Terai,14640,11460,14700,14770
+Maize,West.Dev.Reg.,237299,213954,232298,244187
+Maize,Mid-West. Mountain,13017,10142,9919,7975
+Maize,Mid-West. Hills,97613,96734,93170,101024
+Maize,Mid-West. Terai,42860,39197,42097,35000
+Maize,Mid.West.Dev.Reg.,153490,140431,145186,143999
+Maize,Far-West. Mountain,9960,9972,9972,8000
+Maize,Far-West. Hills,22140,27040,24224,24644
+Maize,Far-West. Terai,22450,11950,11650,9140
+Maize,Far.West.Dev.Reg.,54550,48962,45846,41784
+Maize,Nepal,906253,871387,849635,928761
+Millets,Eastern Mountain,15125,15125,15131,12561
+Millets,Eastern Hills,51972,55755,55681,55751
+Millets,Eastern Terai,5380,4960,5375,5350
+Millets,East.Dev.Reg,72477,75840,76187,73662
+Millets,CentralMountan,23930,23872,23868,23820
+Millets,Central Hills,36305,37089,36406,36411
+Millets,Central Terai,2901,3484,3115,3124
+Millets,Cent.Dev.Reg.,63136,30016,63389,63355
+Millets,Western Mountain,,,,
+Millets,Western Hills,95588,94666,93907,93517
+Millets,Western Terai,700,450,450,620
+Millets,West.Dev.Reg.,96288,95116,94357,94137
+Millets,Mid-West. Mountain,8629,13505,11138,11278
+Millets,Mid-West. Hills,12958,12361,12409,12613
+Millets,Mid-West. Terai,150,100,20,19
+Millets,Mid.West.Dev.Reg.,21737,16161,23567,23910
+Millets,Far-West. Mountain,6195,6206,6206,6206
+Millets,Far-West. Hills,9517,10057,10244,9536
+Millets,Far-West. Terai,470,400,400,377
+Millets,Far.West.Dev.Reg.,16182,16663,16850,16119
+Millets,Nepal,269820,278030,274350,271183

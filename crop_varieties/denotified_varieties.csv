@@ -1,0 +1,43 @@
+SN,Variety,Released year,Origin,Yield (t/ha),Maturity days,Recommended domain
+RICE (DHAN),,,,,,
+1,Khajura-2,1987,India,3.8,140,Mid-Western Tarai (Banke)
+2,Barkhe-2,1987,Indonesia,4.3,148,"Tarai, Inner Tarai"
+3,Mallika,1982,Bangladesh,4,128,"Tarai, Inner Tarai"
+4,Laxmi,1979,IRRI,4.5,135,Tarai
+5,Durga,1979,India,4.3,130,"Tarai, Inner Tarai"
+6,Chandina,1978,IRRI,3.8,128,"Tarai, Inner Tarai"
+7,IR-24,1975,IRRI,3.8,135,"Tarai, Inner Tarai"
+8,Parwanipur-1,1973,IRRI,4,135,"Tarai, Inner Tarai"
+9,Jaya,1973,India,4.3,130,Tarai
+10,IR-22,1972,IRRI,3.5,146,"Tarai, Inner Tarai"
+11,IR-20,1972,IRRI,4,153,"Tarai, Inner Tarai"
+12,IR-8,1968,IRRI,4,138,"Tarai, Inner Tarai"
+MAIZE (MAKAI),,,,,,
+1,Rampur-1,1995,Nepal,3.8,110-120,"Tarai, Inner Tarai"
+2,Makalu-2,1989,Nepal,4,130-160,Lumle and Pakhribas (Mid Hill)
+3,Janaki,1978,CIMMYT,6.5,150-160,Tarai (Winter)
+4,Sarlahi Seto,1975,Philippines,4.1,110-120,Tarai (Easter Region)
+5,Hetauda Composite,1972,Nepal,4.3,110-120,"Mid Hill, Inner Tarai"
+6,Kakani Pahenlo,1966,India,3,190-200,High Hill
+7,Rampur Pahenlo,1965,India,4.7,100-125,"Tarai, Inner Tarai"
+8,Big Boss,2012,India,8.39,116 (days to silking) ,"Tarai, Inner Tarai in the east of Narayani River"
+WHEAT (GAHU),,,,,,
+1,Annapurna-2,1988,India,5,161,Mid Hill
+2,Nepal-251,1988,India,5,118,Tarai
+3,Bhaskar,1983,Mexico,5,125,Mid-Western Tarai
+4,Binayak,1983,India,4,120,Tarai (late sowing)
+5,Sidhhartha,1983,India,4.5,118,Tarai
+6,Tribeni,1982,India,4,124,Tarai
+7,Lumbini,1981,India,4,120,Tarai
+8,HD-1982,1975,India,5,120,Western Tarai
+9,NL-30,1975,India,4,120,Western Tarai
+10,Kalyansona,1968,Mexico,,,Plain
+11,S-331,1968,India,4.5,122,"Mid Hill, Tarai"
+12,Pitic-62,1968,CIMMYT,5,166,Mid Hill
+13,Lerma Rojo-64,1968,CIMMYT,5.5,168,Mid Hill
+CHICKPEA (CHANA),,,,,,
+1,Trishul,1980,Nepal,1.7,144,"Tarai, Inner Tarai"
+SOYBEAN (BHATMAS),,,,,,
+1,Hill,1976,USA,1.7,166,Hill
+RAPE SEED (TORI),,,,,,
+1,Type-9,1980,India,0.8,100,"Tarai, Inner Tarai"

@@ -1,0 +1,139 @@
+S.No,Variety,Year of release_AD,Year of release_BS,Origin,Days to maturity,Average plant height,Yield,Recommended domain,Season grown,Status
+1,Parwanipur-1,1973,,IRRI,135,,4,"Terai, inner Terai",Spring season,Denotified
+2,IR-24,1975,,IRRI,135,,3.8,"Terai, inner Terai",Spring season,Denotified
+3,Chandina,1977,,Bangladesh,128,,3.8,"Terai, inner Terai",Spring season,Denotified
+4,Laxmi,1979,,IRRI,135,,4.5,"Terai, inner Terai",Spring season,Denotified
+5,Mallika,1982,,Bangladesh,128,,4,"Terai, inner Terai",Spring season,Denotified
+6,IR-8,1968,,IRRI,138,,4,Terai,Main season,Denotified
+7,IR-20,1970,,IRRI,153,,4,Terai,Main season,Denotified
+8,IR-22,1972,,IRRI,146,,3.5,Terai,Main season,Denotified
+9,Jaya,1973,,India,130,,4.3,Terai,Main season,Denotified
+10,Durga,1979,,India,130,,4.3,"Terai,innerTerai",Main season,Denotified
+11,Barkhe-2,1987,,Indonesia,148,,4.3,"Terai, inner Terai",Main season,Denotified
+12,Khajura-2,1987,,India,140,,3.8,Mid-western Terai (Banke),Main season,Denotified
+13,DY 18,2010,,,118,,9.17,"Terai, inner Terai",,Denotified
+14,DY 28,2010,,,120,,8.86,"Terai, inner Terai",,Denotified
+15,DY 69,2010,,,125,,9.52,"Terai, Inner terai, Unirrigated areas of Terai, Mid hills (100 masl)",,Denotified
+16,Barkhe-1027,2011,,,121,,3.3,"Hill (100 masl), Low hills and Unirrigated areas",,Denotified
+17,Tara F1,2011,,,116,,5.1,"Terai, Inner Terai",,Denotified
+18,Suraj F1,2011,,,123,,5.77,"Terai, Inner Terai",,Denotified
+19,Prithivi F1,2011,,,124,,6,Terai and Inner Terai Irrigated land,,Denotified
+20,Arise-6444 F1,2011,,,122,,4.43,Terai and Inner Terai Irrigated land,,Denotified
+21,PHB-71 F1,2011,,,129,,5.26,Terai/Irrigated land,,Denotified
+22,US-312 F1,2011,,,132,,5.46,"Sarlahi, Banke, Terai and Inner Terai",,Denotified
+23,Champian F1,2011,,,136,,5.15,"Sarlahi, Banke, Terai and Inner Terai",,Denotified
+24,Raja F1,2011,,,126,,4.94,"Sarlahi, Banke, Terai and Inner Terai",,Denotified
+25,RH-257 F1,2011,,,123,,4.99,"Terai, Inner Terai",,Denotified
+26,Gorakhnath-509 F1,2011,,,123,,4.82,"Terai, Inner Terai",,Denotified
+27,Loknath-505 F1,2011,,,129,,4.79,"Terai and Inner Terai, irrigated area",,Denotified
+28,PAC-801 F1,2011,,,123,,7.79,"Terai and Inner Terai, irrigated area",,Denotified
+29,Reshma-786 F1,2011,,,120,,4.91,"East Terai, irrigated area",,Denotified
+30,Baishali F1,2011,,,121,,6.35,"East Terai, irrigated area",,Denotified
+31,CH-45,1966,2023,China,118,120,3.5,"Terai, inner Terai",Spring season,Recommended
+32,Bindeswori,1981,2038,India,128,,4,"Terai, inner Terai",Spring season,Recommended
+33,Chaite-2,1987,2044,IRRI,125,,4.8,"Terai, inner Terai",Spring season,Recommended
+34,Chaite-4,1987,2044,IRRI,118,,4.5,"Terai, inner Terai",Spring season,Recommended
+35,Chaite-6,1991,2048,Nepal,123,,4.8,"Terai, inner Terai",Spring season,Recommended
+36,Hardinath-1,2004,2060,Srilanka,110,,5,"Terai, Inner Terai",Spring season,Recommended
+37,Taichung-176,1966,2024,Taiwan,144,102,7.9,Mid-hills and valley,Main season,Recommended
+38,Chainung-242,1966,2024,Taiwan,144,120,7.3,Mid-hills and valley,Main season,Recommended
+39,Tainan-1,1966,2024,Taiwan,144,117,6.6,Mid-hills,Main season,Recommended
+40,Chainan-2,1966,2024,Taiwan,143,102,7.8,Mid-hills,Main season,Recommended
+41,Mansuli,1973,2030,Malaysia,155,140,3.5,"Terai, inner Terai",Main season,Recommended
+42,Janaki,1979,2036,Srilanka,135,98,4.5,Terai inner Terai,Main season,Recommended
+43,Sabitri,1979,2036,IRRI,140,95,4,"Terai, inner Terai",Main season,Recommended
+44,Himali,1982,2039,IRRI,149,115,6.4,Mid-hills,Main season,Recommended
+45,Kanchan,1982,2039,IRRI,143,115,7.6,Mid-hills,Main season,Recommended
+46,Khumal-3,1983,2041,India,130,,6.5,Mid-hills,Main season,Recommended
+47,Khumal-2,1987,2044,Nepal,142,130,5.6,Mid-hills,Main season,Recommended
+48,Khumal-4,1987,2044,Nepal,144,137,6.3,Mid-hills,Main season,Recommended
+49,Makwanpur-1,1987,2044,Srilanka,150,101,4.8,"Terai, inner Terai",Main season,Recommended
+50,Ghaiya-2,1987,2044,India,113,75,3.4,"Terai, inner Terai",Main season,Recommended
+51,Palung-2,1987,2044,Nepal,172,119,6.1,High hills,Main season,Recommended
+52,Khumal-5,1990,2047,Nepal,154,113,6.7,Mid-hills,Main season,Recommended
+53,Khumal-7,1990,2047,IRRI,146,102,7,Mid-hills,Main season,Recommended
+54,Khumal-9,1991,2047,IRRI,148,103,6.7,Mid-hills,Main season,Recommended
+55,Chhomrong local,1991,2047,Nepal,164,95,4.2,Eastern and western high hills,Main season,Recommended
+56,Radha-7,1991,2048,Nepal,148,140,3.5,"Terai, inner Terai (rainfed)",Main season,Recommended
+57,Radhakrishna-9,1991,2048,Nepal,150,139,3.8,"Terai, inner Terai (rainfed)",Main season,Recommended
+58,Radha-4,1995,2052,IRRI,125,91,3.2,Mid-western and Far-western Terai,Main season,Recommended
+59,Radha-11,1995,2052,India,148,120,4,Central Terai (rainfed),Main season,Recommended
+60,Radha-12,1995,2052,India,155,115,4.6,Eastern Terai (irrigated/rainfed),Main season,Recommended
+61,Machapuchhre-3,1997,2052,Nepal,174,127,5,Mid-hills and high hills (semi-irrigated),Main season,Recommended
+62,Khumal-6,1999,2056,,155,,7.8,Kathmandu valley and equivalent areas,Main season,Recommended
+63,Rampur Masuli,1999,2056,,135,,5.7,"Central and western terai, inner terai and foot hills (irrigated and semi-irrigated)",Main season,Recommended
+64,Manjushree-2,2002,2058,Nepal,149,,8.3,Kathmandu Valley,Main season,Recommended
+65,Khumal-11,2002,2058,Nepal,144,,7.7,Kathmandu Valley,Main season,Recommended
+66,Chandannath-1,2002,2058,Jhingling-78 (China),191,,6,High altitudes (Jumla),Main season,Recommended
+67,Chandannath-3,2002,2058,Yungen-1 (China),191,,6,High altitudes (Jumla),Main season,Recommended
+68,Loktantra,2006,2063,IRRI,130,,3.6,"Terai, Inner Terai, Mid-hills (3000 ft.)",Main season,Recommended
+69,Mithila,2006,2063,IRRI,145,,5,Terai,Main season,Recommended
+70,Ram dhan,2006,2063,Nepal,133,,4.9,"Terai, Inner Terai",Main season,Recommended
+71,Barkhe 3004,2006,2063,India/IRRI,157,,3.9,"Terai,InnerTerai",Main season,Recommended
+72,Pokhreli Jetho Budho,2006,2063,Nepal,185,,2.7,600-900 masl (Pokhara valley),Main season,Recommended
+73,Khumal-8,2006,2063,Nepal,158,,9.8,"Terai, Inner Terai, Mid-hill",Main season,Recommended
+74,Sunaulo Sugandha,2008,2064,UK,115,,3.8,"Terai, Inner Terai",Main season,Recommended
+75,Ghaiya-1,2010,2066,IRRI,115,,3.6,"Terai, Inner terai, Midhills",Main season,Recommended
+76,Lalka Basmati,2010,2066,Nepal,150,,3.5,Central and Eastern terai,Main season,Recommended
+77,Hardinath-2,2010,2066,Indonesia,125,,3.1-4.2,"Terai, Inner Terai",Main season,Recommended
+78,Tarahara-1,2010,2066,IRRI,113-125,,4.2,Terai and Eastern terai,Main season,Recommended
+79,Khumal-10,2010,2068,Nepal,145,,4.5,Mid-hills,Main season,Recommended
+80,Khumal-13,2010,2068,Nepal,145,,4.5,Mid-hills,Main season,Recommended
+81,Sukhha Dhan-1,2011,2068,IRRI,125,,2.5-3.6,"Terai, Inner Terai, River basin",Main season,Recommended
+82,Sukhha Dhan-2,2011,2068,IRRI,125,,3.3-3.5,"Terai, Inner Terai, River basin",Main season,Recommended
+83,Sukhha Dhan-3,2011,2068,IRRI,125,,3.2-4.2,"Terai, Inner Terai, River basin",Main season,Recommended
+84,Barkhe-2014,2011,2068,IRRI,125,,3.5,"Terai, Inner Terai, River basin",Main season,Recommended
+85,Swarna Sub-1,2011,2068,IRRI,150,,4.5,Terai,Main season,Recommended
+86,Sambha Masuli Sub-1,2011,2068,IRRI,150,,4.5,Inner Terai,Main season,Recommended
+87,Lekali Dhan-1,2014,2071,Nepal,158,,4.07,"1500-2600 msl, High hill",Main season,Recommended
+88,Lekali Dhan-3,2014,2071,Nepal,152,,3.9,"1500-2600 msl, High hill",Main season,Recommended
+89,Sukkha Dhan-4,2014,2071,IRRI,118-125,,2.7-4,"Unirrigated areas of Terai, Inner terai and Mid hills (500 masl)",Main season,Recommended
+90,Sukkha Dhan-5,2014,2071,IRRI,125,,3.2-4.2,"Unirrigated areas of Terai, Inner terai and Mid hills (500 masl)",Main season,Recommended
+91,Sukkha Dhan-6,2014,2071,IRRI,120-125,,3.0-4.0,"Unirrigated areas of Terai, Inner terai and Mid hills (500 masl)",Main season,Recommended
+92,Radha-14,2016,2073,,120-125,,5.0-6.0,"Terai, Inner Terai (Irrigated)",Main season,Recommended
+93,Sugandhit Dhan-1,2017,2073,,142-145,,4.5,"Terai, Inner terai, River basin and valleys; Upto 700 masl",Main season,Recommended
+94,Radha-13,2017,2073,,142-148,,3.0-4.2,"Unirrigated areas of Terai, Inner terai, River basin, Lowlands and Irrigated areas of valleys; Upto 700 masl",Main season,Recommended
+95,Ciherang Sub-1,2017,2073,,122-125,,4.4-4.9,"Terai, Inner terai, River basin, Lowlands and Irrigated areas of valleys; Upto 700 masl",Main season,Recommended
+96,Chaite-5,2018,2074,,120-125,,4.6,"Terai, Inner terai and river basins; Upto 700 masl",Spring season,Recommended
+97,JKRH-2082 F1,2017,2073,,130,,8.5-9,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+98,JKRH-3333,2017,2073,,135,,6,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+99,HJG-1 F1,2017,2073,,120-125,,8.0-9.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+100,HJG-5 F1,2017,2073,,120-130,,7.0-8.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+101,HJG-10 F1,2017,2074,,120-125,,8.0-9.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+102,Bahuguni-1,2018,2074,,135,,5.5,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+103,Bahuguni-2,2018,2074,,142,,5.8,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+104,Hardinath-3,2018,2074,,125,,5.5,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+105,LG9301 F1,2018,2074,,120-125,,7.5-8.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+106,LG9302 F1,2018,2074,,120-125,,7.5-8.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+107,Sawa 127 F1,2018,2074,,118,,5.16,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+108,Sawa 134 F1,2018,2074,,115-118,,5.64,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+109,Arise-6129 Gold F1,2018,2074,,112-115,,6.5-7,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+110,Arise Prime F1,2018,2074,,130-135,,7.5-8.0,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+111,VNR-2233 F1,2018,2074,,120-125,,5.5-6.6,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+112,DY-68 F1,2018,2074,,120,,4.6-6.2,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+113,DY-79 F1,2018,2074,,121,,4.6-6.2,"Terai, Inner terai and river basins; Upto 700 masl",Main season,Recommended
+114,Black rice,2018,2075,,99-125,,2.2,"Terai, Inner terai, Hills, Valleys and Tars",Main season,Recommended
+115,LPNBR 1605,2018,2075,,150,,7,Eastern and central terai,Main season,Recommended
+116,Shreeram Khusboo,2018,2075,,118-121,,5.2-6.2,"Terai, Inner terai and river basins",Main season,Recommended
+117,Arise Idea,2018,2075,,120-125,,5.3-6.1,"Terai, Inner terai and river basins",Main season,Recommended
+118,Ultra Super Sampurna,2018,2075,,135-137,,4.05-4.51,"Terai, Inner terai, Hills, Valleys and Tars",Main season,Recommended
+,DY-18 F1,2010,2066,,118,,9.17,Terai and Inner terai,,Recommended
+,DY-28 F1,2010,2066,,120,,8.86,Terai and Inner terai,,Recommended
+,DY-69 F1,2010,2066,,125,,9.52,Terai and Inner terai,,Recommended
+,Barkhe-1027,2011,2068,,121,,3.3,Non irrigated terai and inner terai regions; Upto 1000 masl,,Recommended
+,Sinduri OP,2015,2072,,135-145,,4.0-5.0,Terai and Inner terai,,
+,Sundaram OP,2015,2072,,120-125,,4.4-5.3,Terai and Inner terai,,
+,Delta rani OP,2015,2072,,124-128,,3.9-5,Terai and Inner terai,,
+,Aakash,2015,2072,,120-125,,6-6.3,Terai and Inner terai,,
+,Garima F1,2015,2072,,130-135,,5.8-6.3,Terai and Inner terai,,
+,DRH-775,2015,2072,,125-130,,5.6,Terai and Inner terai,,
+,DRH-748,2015,2072,,130-135,,6.5,Terai and Inner terai,,
+,Arise-6444 Gold F1,2015,2072,,130,,5.1,Eastern terai region ranging for Banke,,
+,Arise Tej Gold F1,2015,2072,,135,,5.3,Eastern terai region ranging for Banke,,
+,GK-5017 F1,2015,2072,,127,,5.1-5.4,Terai and Inner terai,,
+,Super 125 F1,2015,2072,,128-133,,5.3-6.3,Irrigated and semi-irrigated regions of terai and inner terai,,
+,Super 115 F1,2015,2072,,120-125,,5.0-6.0,Irrigated and semi-irrigated regions of terai and inner terai,,
+,Shanti F1,2015,2072,,120-130,,5.0-6.0,Irrigated regions terai and inner terai,,
+,Sudha F1,2015,2072,,125-130,,5.0-6.0,Irrigated regions terai and inner terai,,
+,US-323 F1,2015,2072,,120-130,,4.0-5.0,Irrigated regions terai and inner terai,,
+,US-382 F1,2016,2072,,120-125,,5.0-6.0,Irrigated regions terai and inner terai,,

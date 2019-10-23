@@ -1,0 +1,39 @@
+Crop,Variety,Origin,Released year,Recommended domain,Crop duration (days),Potential yield (t ha-1),Special characteristics
+Lentil,Sindur,Nepal,1979 (2036),"Terai, Midhills",148,1.5,Wide adaptation
+Lentil,Shishir,India (P 43),1979 (2036),,150,2,
+Lentil,Simrik,India (T 36),1979 (2036),,143,1.5,"Medium bold seed, wilt tolerant"
+Lentil,Simal,India (LG 7),1990 (2046),,143,4.1,Small seed
+Lentil,Shikhar,Pakistan (ILL 4404),1990 (2046),,143,3.5,Wilt tolerant
+Lentil,Khajura Masuro-1,India (LG 198),1999 (2056),"Mid western terai, Far western terai",128,1.5,
+Lentil,Khajura Masuro-2,ICARDA (ILL 2573),1999 (2056),,134,2.1,"Bold seed, wilt tolerant"
+Lentil,Shital,ICARDA (ILL 2580),2004 (2061),"Terai, Midhills",134,1.1,"Wilt tolerant, brown seed"
+Lentil,Maheswor Bharati,ICARDA (ILL 7982),2007 (2064),"Midhills, Lowhills",111,1.4,"Wilt tolerant, bold seed"
+Lentil,Sagun,ICARDA (ILL 6829),2007 (2064),,98,1.3,Bold seed
+Lentil,Khajura Masuro 3,Nepal (RL 4),2016 (2073),"Terai, River basins",148,1.5,"Stemphylium blight tolerant, high content of Se, Fe and Zn"
+Chickpea,Dhanush,Nepal,1979 (2036),"Terai, Inner terai",144,1.8,Drought tolerant
+Chickpea,Trishul,Nepal,1979 (2036),,,,Denotified
+Chickpea,Radha,India (JG 74),1987 (2044),,142,1.6,Well adapted in dry and rainfed terai
+Chickpea,Sita,ICRISAT (ICC 4),1987 (2044),,140,1.5,
+Chickpea,Kalika,ICRISAT (CL 82108),1990 (2047),"Western terai, Central terai",152,1.4,Well adapted in mid-western terai to inner terai regions
+Chickpea,Kosheli,ICRISAT (ICC 32),1990 (2047),"Western terai, Inner terai",154,1.6,Well adapted in mid to far western terai
+Chickpea,Tara,Nepal (ICCX 840508),2008 (2064),"Terai, Midhills, River basins",135,1.4,Well adapted in mid to far-western terai and inner terai regions
+Chickpea,Avrodhi,India (Avrodhi),2008 (2064),,135,1.3,
+Soybean,Hill,USA,1976 (2033),Midhills,,,Denotified
+Soybean,Hardee,USA,1977 (2034),"Terai, Inner terai",124,2.4,Well adapted in midhills
+Soybean,Ransom,USA (N55-5931/N55-36181/D56-1186),1987 (2044),"Midhills, Valleys",145,1,Intercropping with maize
+Soybean,Seti,Taiwan (KS419/KS525),1990 (2046),,150,1.2,"Intercropping with maize, adaptation in highhills"
+Soybean,Cobb,USA (F57-735/D58-3358),1990 (2046),"Terai, Inner terai",123,2.5,Bold seed
+Soybean,Lumle-1,Nepal (Local selection),1996 (2053),Midhills,142,1.7,"Suitable in rice bunds, adapted in 400-1600 MASL"
+Soybean,Tarkari Bhatmas-1,China (Huizin #2),2004 (2060),,120,2.3,"Suitable for green vegetable, adapted in 800-1500 MASL"
+Soybean,Puja,India (PK 416),2006 (2063),"Terai, Midhills",125,1.6,SYMV tolerant
+Mungbean,Pusa Baishakhi,Introduced from India,1976 (2032),Terai,60,1.5,"Small seed, multiple picking (at least 5 times)"
+Mungbean,Kalyan,AVRDC (NM 95),2006 (2063),"Terai, Midhills",60,0.7,"Bold seed, resistant to MYMV, suitable for rainy and spring season, 85% harvest in two pickings"
+Mungbean,Pratikshya,AVRDC (VC 6372 (45-8-1)),2006 (2063),,63,0.7,
+Cowpea,Akash,IITA (IT82D-752),1990 (2046),"Terai, Inner terai",73,1,"Pods erected towards sky, pink flower and seed"
+Cowpea,Prakash,IITA (IT82D-889),1990 (2046),,60,0.8,"Dark green foliage, red seed, suitable for pulse"
+Cowpea,Surya,IITA (IT86D-792),2004 (2061),"Western terai, Central terai and Inner terai",77,1.3,"Brown bold seed, dual purpose (Vegetable and pulse)"
+Cowpea,Malepatan-1,IITA (IT86F-2089-5),2011 (2068),"Terai, Midhills",80,1,"Green pod, light red seed"
+Cowpea,Gajale Bodi,IITA (IT98K205-8),2016 (2073),,78,1.3,"Resistant to CYMV, white grain with black hilum"
+Pigeonpea,Rampur arahar-1,Introduced from India,1992 (2048),"Central terai, Inner terai",197,1.5,"Well adapted in Chitwan, Makawanpur and Sarlahi"
+Pigeonpea,Bageshwori,Nepal (PR 5147),1992 (2048),,261,2,"Well adapted in Dhanusha, Sarlahi and Banke"
+Blackgram,Kalu,India (Type 9),1989 (2046),"Midhills, Valleys",49,1.2,"Black seed coat, Highly susceptible to YMV"
