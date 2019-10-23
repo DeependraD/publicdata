@@ -1,0 +1,74 @@
+---
+title: 'Tidy scraping: Foreign exchange and Nepalese economy'
+author: "Deependra Dhakal"
+date: "9/3/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(tidyverse)
+require(rvest)
+require(glue)
+```
+
+## Forex data from RBB^[https://www.nrb.org.np/]
+
+We can scrape the data from the web using rvest and allied packages. The website publishes daily exchange rate data since 1994, January 1 till date. We take today's date to grab the most recent data.
+
+### Obtain the static links
+
+```{r}
+require(lubridate)
+year_range <- seq(date("1994-01-01"), today(), by = "day") %>% 
+  year() 
+month_range <- seq(date("1994-01-01"), today(), by = "day") %>% 
+  month() %>% 
+  str_pad(width = "2", pad = "0")
+day_range <- seq(date("1994-01-01"), today(), by = "day") %>% 
+  day() %>% 
+  str_pad(width = "2", pad = "0")
+
+url_glued <- glue("https://www.nrb.org.np/fxmexchangerate.php?YY={year_range}&MM={month_range}&DD={day_range}&B1=Go")
+```
+
+### Prepare page downloader function
+
+```{r}
+css_selector_india <- "body > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(3) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(1)"
+
+css_path_india <- "html body table tbody tr td table tbody tr td table"
+
+css_selector_world <- "body > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(3) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) > table:nth-child(1)"
+
+css_path_world <- "html body table tbody tr td table tbody tr td table"
+```
+
+
+```{r}
+url_single <- url_glued[[1]] %>% 
+  read_html() %>% 
+  html_nodes("table") %>%
+  html_table()
+```
+
+
+### Implement web page cleaning
+
+### Clean data
+
+### Visualize data
+
+## Nepal's economic indicators 1980-2017^[https://en.wikipedia.org/wiki/Economy_of_Nepal]
+
+### Download table
+
+```{r}
+url_wiki_np_eco <- "https://en.wikipedia.org/wiki/Economy_of_Nepal"
+
+url_wiki_np_eco %>% 
+  read_html() %>% 
+  read_nodes("table") %>% 
+  html_table()
+```
+
